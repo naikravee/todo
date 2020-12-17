@@ -1,0 +1,38 @@
+body {
+	box-sizing: border-box;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+/* HEADER SECTION */
+.header {
+	background-color: #790c5a;
+	color: #f1d4d4;
+	padding: 20px;
+}
+
+.header h1 {
+	font-size: 2.5rem;
+	line-height: 1.5;
+}
+
+/* BODY CONTENT */
+.content {
+	margin: 5px 5%;
+	padding: 10px;
+}
+
+.content h4 {
+	padding: 10px;
+}
+
+/* THE LOGIN PANEL */
+.login {
+	margin: 10px;
+	border-radius: 20px;
+}
+
+
+	
+
